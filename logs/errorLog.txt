@@ -1,0 +1,8 @@
+20231130	23:03:20	6fdf77cf-0432-4f67-b237-38e610a6e084	Error : Not allowed by Cors
+20231130	23:03:20	b68d0b4b-95df-4127-a2c5-a69e578ef67f	Error : Not allowed by Cors
+20231130	23:03:30	5cc67286-2ea7-47e0-a961-8ad71febaeb9	Error : Not allowed by Cors
+20231130	23:03:30	73642ebe-d2ad-42ab-b776-7dbb11298724	Error : Not allowed by Cors
+20231130	23:05:22	fa3ebfaa-34cd-406a-81b2-e87fc907fb01	Error : Not allowed by Cors
+20231130	23:05:22	1c4018a9-bebe-466d-b4e8-fedc13cf7e18	Error : Not allowed by Cors
+20231130	23:06:16	bd321d3a-aceb-4f3a-8306-4c049f7b353d	Error : Not allowed by Cors
+20231130	23:06:16	da57d785-754f-490b-bf0f-10a79b2dcb1b	Error : Not allowed by Cors

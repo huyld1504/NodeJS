@@ -1,0 +1,52 @@
+[
+    {
+      "user_name": "Dune",
+      "user_role": "Frank Herbert",
+      "user_email": "dune@email"
+    },
+    {
+      "user_name": "Ender's Game",
+      "user_role": "Orson Scott Card",
+      "user_email": "endersgame@email"
+    },
+    {
+      "user_name": "The Hitchhiker's Guide to the Galaxy",
+      "user_role": "Douglas Adams",
+      "user_email": "hitchhikersguide@email"
+    },
+    {
+      "user_name": "1984",
+      "user_role": "George Orwell",
+      "user_email": "1984email"
+    },
+    {
+      "user_name": "Brave New World",
+      "user_role": "Aldous Huxley",
+      "user_email": "bravenewworldemail"
+    },
+    {
+      "user_name": "Foundation",
+      "user_role": "Isaac Asimov",
+      "user_email": "foundationemail"
+    },
+    {
+      "user_name": "Neuromancer",
+      "user_role": "William Gibson",
+      "user_email": "neuromanceremail"
+    },
+    {
+      "user_name": "The Martian",
+      "user_role": "Andy Weir",
+      "user_email": "themartianemail"
+    },
+    {
+      "user_name": "Snow Crash",
+      "user_role": "Neal Stephenson",
+      "user_email": "snowcrashemail"
+    },
+    {
+      "user_name": "Ready Player One",
+      "user_role": "Ernest Cline",
+      "user_email": "readyplayeroneemail"
+    }
+  ]
